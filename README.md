@@ -19,17 +19,19 @@
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
       
 Module 01: Introductory Discussion on Deep Learning
-1) Why AI?
-      Introduction to Deep Learning
-      Use cases for deep learning.
-      Deep Learning's importance 5. How do neural networks work?
-      The Function of Neural Networks Class
-      2) Software Installation:
-      a. Latest Python
-      b. PyCharm
-      c. Visual Studio
-      d. Anaconda
-      e. Atom
+**Why AI?**
+
+1. Introduction to Deep LearningUse cases for deep learning.
+2. Deep Learning's importance
+3. How do neural networks work?
+4. The Function of Neural Networks Class
+
+**Software Installation:**
+1. Latest Python
+2. PyCharm
+3. Visual Studio
+4. Anaconda
+5. Atom
       3) Python Basics:
       a. Introduction of Python
       b. Python objects and Data structure basics
