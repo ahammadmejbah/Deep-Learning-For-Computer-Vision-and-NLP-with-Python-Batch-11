@@ -18,9 +18,8 @@
 # Tech Used
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
       
-Module 01: Introductory Discussion on Deep Learning
+**Module 01: Introductory Discussion on Deep Learning**
 **Why AI?**
-
 1. Introduction to Deep LearningUse cases for deep learning.
 2. Deep Learning's importance
 3. How do neural networks work?
@@ -32,82 +31,88 @@ Module 01: Introductory Discussion on Deep Learning
 3. Visual Studio
 4. Anaconda
 5. Atom
-      3) Python Basics:
-      a. Introduction of Python
-      b. Python objects and Data structure basics
-      c. Python statements
-      d. Variables and names
-      e. Strings and text
-      f. Reading and writing files
-      g. Classes and objects
-      h. Functions
-      i. Conditionals and control flow
-      j. List and dictionaries Loops
-      4) Basic Terminology:
-      a. Neuron
-      b. Weights and Bias
-      c. CNN (Convolutional neural network)
-      d. Pooling
-      e. Data Augmentation, Position augmentation, Color augmentation
-      f. Activation Functions
-      g. Neural Network
-      h. MLP (Multi-Layer perceptron)
-      i. Forward Propagation and Backpropagation
-      j. Cost Function
-      k. Padding
-      l. Gradient Descent
-      m. Learning Rate
-      n. Batches, Epochs, Dropout, Batch Normalization, and Filters
-      o. Gradient Problem
-i. Vanishing Gradient Problem
-ii. Exploding Gradient Problem
 
-Module 02: Computer Vision / Image Processing Basics
-1) Image Masking
-2) Image Color Channels Merging and Splitting
-3) Gray scale Histograms
-4) Color Histograms
-5) Histogram Equalization
-6) Image Blurring
-7) Image Threshold
-8) Image Gradient Detection
-9) Canny Edge Detection
-10) Image Contours
-11) Image Transformation –
-a) Rotation
-b) Resizing
-c) Flipping
-d) Cropping
-e) Operations
-f) Translation
-12) Image Bitwise Logical Operations
-13) Ndarray manipulation
-14) Image Processing with Python, NumPy, and Matplotlib
-15) Operations on Images
-16) Image Filtering
-17) Random Sampling
+**Python Basics:**
+1. Introduction of Python
+2. Python objects and Data structure basics
+3. Python statements
+4. Variables and names
+5. Strings and text
+6. Reading and writing files
+7. Classes and objects
+8. Functions
+9. Conditionals and control flow
+10. List and dictionaries Loops
 
-Module 03: Deep Learning with Tensorflow and Pytorch:
-1) Variables,
-2) Automated distinction,
-3) How to use Keras to train artificial neural networks,
-4) Preprocessing of data,
-5) Transformation of data,
-6) The artificial neural network construction process,
-7) How to display the performance of a model,
-8) Regularize dropouts to combat overfitting.
-9) How to use batch normalization to speed up network training,
-10) How to use early halting to stop model training at the appropriate moment,
-11) How to use checkpoints to preserve the best model,
-12) Speculate based on the test set,
-13) Examine the confusion matrix.
-14) How to load and save models in Keras,
-15) How to use cross-validation to assess the Keras model,
-16) How to adjust the Keras model hyperparameters,
-17) How to adjust the network's settings
-18) constructing CNN using TensorFlow,
-19) MiDaS — Model on Depth Estimation
-20) HydraNets in Computer Vision
+
+**Basic Terminology:**
+
+1. Neuron
+2. Weights and Bias
+3. CNN (Convolutional neural network)
+4. Pooling
+5. Data Augmentation, Position augmentation, Color augmentation
+6. Activation Functions
+7. Neural Network
+8. MLP (Multi-Layer perceptron)
+9. Forward Propagation and Backpropagation
+10. Cost Function
+11. Padding
+12. Gradient Descent
+13. Learning Rate
+14. Batches, Epochs, Dropout, Batch Normalization, and Filters
+15. Gradient Problem
+      i. Vanishing Gradient Problem
+      ii. Exploding Gradient Problem
+
+**Module 02: Computer Vision / Image Processing Basics**
+
+1. Image Masking
+2. Image Color Channels Merging and Splitting
+3. Gray scale Histograms
+4. Color Histograms
+5. Histogram Equalization
+6. Image Blurring
+7. Image Threshold
+8. Image Gradient Detection
+9. Canny Edge Detection
+10. Image Contours
+11. Image Transformation –
+      a) Rotation
+      b) Resizing
+      c) Flipping
+      d) Cropping
+      e) Operations
+      f) Translation
+12. Image Bitwise Logical Operations
+13. Ndarray manipulation
+14. Image Processing with Python, NumPy, and Matplotlib
+15. Operations on Images
+16. Image Filtering
+17. Random Sampling
+
+**Module 03: Deep Learning with Tensorflow and Pytorch:**
+
+1. Variables,
+2. Automated distinction,
+3. How to use Keras to train artificial neural networks,
+4. Preprocessing of data,
+5. Transformation of data,
+6. The artificial neural network construction process,
+7. How to display the performance of a model,
+8. Regularize dropouts to combat overfitting.
+9. How to use batch normalization to speed up network training,
+10. How to use early halting to stop model training at the appropriate moment,
+11. How to use checkpoints to preserve the best model,
+12. Speculate based on the test set,
+13. Examine the confusion matrix.
+14. How to load and save models in Keras,
+15. How to use cross-validation to assess the Keras model,
+16. How to adjust the Keras model hyperparameters,
+17. How to adjust the network's settings
+18. constructing CNN using TensorFlow,
+19. MiDaS — Model on Depth Estimation
+20. HydraNets in Computer Vision
 
 Module 04: Depth of Convolutional Neural Network
 1) Describe CNN
