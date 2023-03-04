@@ -20,43 +20,43 @@
       
 Module 01: Introductory Discussion on Deep Learning
 1) Why AI?
-a. Introduction to Deep Learning
-b. Use cases for deep learning.
-c. Deep Learning's importance 5. How do neural networks work?
-d. The Function of Neural Networks Class
-2) Software Installation:
-a. Latest Python
-b. PyCharm
-c. Visual Studio
-d. Anaconda
-e. Atom
-3) Python Basics:
-a. Introduction of Python
-b. Python objects and Data structure basics
-c. Python statements
-d. Variables and names
-e. Strings and text
-f. Reading and writing files
-g. Classes and objects
-h. Functions
-i. Conditionals and control flow
-j. List and dictionaries Loops
-4) Basic Terminology:
-a. Neuron
-b. Weights and Bias
-c. CNN (Convolutional neural network)
-d. Pooling
-e. Data Augmentation, Position augmentation, Color augmentation
-f. Activation Functions
-g. Neural Network
-h. MLP (Multi-Layer perceptron)
-i. Forward Propagation and Backpropagation
-j. Cost Function
-k. Padding
-l. Gradient Descent
-m. Learning Rate
-n. Batches, Epochs, Dropout, Batch Normalization, and Filters
-o. Gradient Problem
+      1. Introduction to Deep Learning
+      2. Use cases for deep learning.
+      3. Deep Learning's importance 5. How do neural networks work?
+      d. The Function of Neural Networks Class
+      2) Software Installation:
+      a. Latest Python
+      b. PyCharm
+      c. Visual Studio
+      d. Anaconda
+      e. Atom
+      3) Python Basics:
+      a. Introduction of Python
+      b. Python objects and Data structure basics
+      c. Python statements
+      d. Variables and names
+      e. Strings and text
+      f. Reading and writing files
+      g. Classes and objects
+      h. Functions
+      i. Conditionals and control flow
+      j. List and dictionaries Loops
+      4) Basic Terminology:
+      a. Neuron
+      b. Weights and Bias
+      c. CNN (Convolutional neural network)
+      d. Pooling
+      e. Data Augmentation, Position augmentation, Color augmentation
+      f. Activation Functions
+      g. Neural Network
+      h. MLP (Multi-Layer perceptron)
+      i. Forward Propagation and Backpropagation
+      j. Cost Function
+      k. Padding
+      l. Gradient Descent
+      m. Learning Rate
+      n. Batches, Epochs, Dropout, Batch Normalization, and Filters
+      o. Gradient Problem
 i. Vanishing Gradient Problem
 ii. Exploding Gradient Problem
 
