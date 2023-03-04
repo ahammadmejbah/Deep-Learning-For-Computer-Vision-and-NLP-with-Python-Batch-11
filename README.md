@@ -20,10 +20,10 @@
       
 Module 01: Introductory Discussion on Deep Learning
 1) Why AI?
-      1. Introduction to Deep Learning
-      2. Use cases for deep learning.
-      3. Deep Learning's importance 5. How do neural networks work?
-      d. The Function of Neural Networks Class
+      Introduction to Deep Learning
+      Use cases for deep learning.
+      Deep Learning's importance 5. How do neural networks work?
+      The Function of Neural Networks Class
       2) Software Installation:
       a. Latest Python
       b. PyCharm
