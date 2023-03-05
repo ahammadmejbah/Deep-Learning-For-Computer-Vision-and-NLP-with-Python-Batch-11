@@ -169,7 +169,7 @@ Module 07: Transfer Learning:
 11) Transfer learning with natural language processing
 12) Transformers with TensorFlow
 
-Module 08: Projects:
+**Module 08: Projects:**
 1. Real-time Facial Expression Recognition
 2. A Basic Motion Detection System using Open CV
 3. Complete Dummies Guide to Computer Vision with Python
